@@ -280,7 +280,7 @@ button {
     50% {
         scale: 50%;
         filter: grayscale(40%); 
-        /* width: -505%;
+        /* width: -505%; 
         height: 50px;
         left: 90%; */
     }
@@ -294,5 +294,5 @@ button {
     }
 
 }
-
+/*ahora parece un poco mas la solucion, creo.*/
 
